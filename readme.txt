@@ -5,3 +5,4 @@
 777777777
 999999999
 add merge then delete
+fix a bug
