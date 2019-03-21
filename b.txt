@@ -1,1 +1,2 @@
 dev add ym
+master add ym
